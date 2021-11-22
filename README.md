@@ -1,0 +1,2 @@
+# uni-assignment-graphics-package
+Uni assignment on basic graphics programming techniques. Skeleton program provided with basic UI for a simple graphics package for the creation and manipulation of 2D primitives, with the requirement of writing code to create and manipulate a limited selection of these primitives with a limited number of operations. My implementation expanded upon the number of available primitives, operations and implemented all assessed operations and primitives from first principles.
